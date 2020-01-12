@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    crabstone (4.0.0)
+      ffi
+    ffi (1.11.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  crabstone
+
+BUNDLED WITH
+   2.1.2
